@@ -14,4 +14,4 @@
 
 此外，视频的播放体验也是关键。很多站点提供在线播放和磁力下载两种方式，以便用户根据不同需求选择。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd12 ）</span>
